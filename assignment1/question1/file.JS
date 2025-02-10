@@ -1,0 +1,1 @@
+console.log("javascript file is inserted in src using Script tag in html")
