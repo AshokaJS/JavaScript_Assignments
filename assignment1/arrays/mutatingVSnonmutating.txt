@@ -1,0 +1,17 @@
+question:-What makes a method mutating or non mutating in Javascript? Find out whether each of
+          the following methods are mutating or non-mutating. How can you verify this?:
+          ○ push
+          ○ pop
+          ○ filter
+          ○ find
+          ○ sort
+          ○ map
+
+answer :- A mutating method modifies the original array, whereas a non-mutating method creates 
+          and returns a new array without changing the original one.
+
+            mutating methods are : push, pop, sort because these methods modifies the original 
+            array.
+
+            non-mutating methods are : filter, find, map these are non-mutating methods because these 
+            methods returns new array.
